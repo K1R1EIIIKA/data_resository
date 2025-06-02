@@ -1,38 +1,40 @@
-[
-  {
-    "name": "Strawberry & Cactus",
-    "description": "A refreshing blend of strawberry and cactus flavors, perfect for a hot day.",
-    "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/strawberry_cactus.png?raw=true",
-    "price": 7.99
-  },
-  {
-    "name": "Mango",
-    "description": "A tropical delight with the sweet taste of ripe mangoes.",
-    "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/mango.png?raw=true",
-    "price": 6.99
-  },
-  {
-    "name": "Blue Matcha",
-    "description": "A unique and vibrant blue matcha tea, rich in antioxidants.",
-    "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/blue_matcha.png?raw=true",
-    "price": 6.99
-  },
-  {
-    "name": "Caramel",
-    "description": "A sweet and creamy caramel tea that warms the soul.",
-    "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/caramel.png?raw=true",
-    "price": 6.99
-  },
-  {
-    "name": "In Bottle",
-    "description": "A convenient bottled drink, perfect for on-the-go refreshment.",
-    "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/bottle.png?raw=true",
-    "price": 10.99
-  },
-  {
-    "name": "Strawberry",
-    "description": "A classic strawberry tea with a burst of fruity flavor.",
-    "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/strawberry.png?raw=true",
-    "price": 6.99
-  }
-]
+{
+  "drinks": [
+    {
+      "name": "Strawberry & Cactus",
+      "description": "A refreshing blend of strawberry and cactus flavors, perfect for a hot day.",
+      "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/strawberry_cactus.png?raw=true",
+      "price": 7.99
+    },
+    {
+      "name": "Mango",
+      "description": "A tropical delight with the sweet taste of ripe mangoes.",
+      "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/mango.png?raw=true",
+      "price": 6.99
+    },
+    {
+      "name": "Blue Matcha",
+      "description": "A unique and vibrant blue matcha tea, rich in antioxidants.",
+      "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/blue_matcha.png?raw=true",
+      "price": 6.99
+    },
+    {
+      "name": "Caramel",
+      "description": "A sweet and creamy caramel tea that warms the soul.",
+      "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/caramel.png?raw=true",
+      "price": 6.99
+    },
+    {
+      "name": "In Bottle",
+      "description": "A convenient bottled drink, perfect for on-the-go refreshment.",
+      "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/bottle.png?raw=true",
+      "price": 10.99
+    },
+    {
+      "name": "Strawberry",
+      "description": "A classic strawberry tea with a burst of fruity flavor.",
+      "imagePath": "https://github.com/K1R1EIIIKA/data_resository/blob/main/tea/strawberry.png?raw=true",
+      "price": 6.99
+    }
+  ]
+}
